@@ -34,6 +34,9 @@ const PageHeader = () => {
                 <Button size="icon" className="md:hidden">
                     <Search color="white" />
                 </Button>
+                <Button size="icon" className="md:hidden">
+                    <Mic color="white" />
+                </Button>
                 <Button size="icon">
                     <Bell color="white" />
                 </Button>
